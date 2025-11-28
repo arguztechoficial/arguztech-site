@@ -1,0 +1,17 @@
+# Pastas que não vão para o GitHub
+node_modules
+.next
+.vercel
+
+# Config local / segredos
+.env
+.env.local
+.env.*.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Outras coisas que não precisa
+.DS_Store
